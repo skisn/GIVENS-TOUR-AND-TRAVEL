@@ -1,0 +1,32 @@
+body{
+   
+    color: white;
+}
+h1{
+    color:forestgreen;
+    text-align: center;
+    font-size:large;
+}
+h1{
+
+}
+.deck{
+      align-items: center;
+}
+.links{
+    text-align: center;
+    font-size:xx-large;
+    word-spacing:2.8cm;
+    font-family:fantasy;
+    margin-top:0.1cm;
+
+}
+.ban{
+    background: transparent;
+    text-align: center;
+    justify-content: center;
+}
+.fen{
+    margin-left:15cm;
+    margin-top: 0.7cm;
+}

@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+
+
+h1{
+    color: aqua;
+    text-align: center;
+}
+.vex{
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+.go{
+    background-color: black;
+}
+.sec{
+    margin-left: 7cm;
+}
